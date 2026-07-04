@@ -43,6 +43,7 @@ header li a {
   justify-content: center;
   align-items: center;
   font-size: 18px;
+  font-weight: 700;
   color: black;
 }
 
@@ -89,6 +90,8 @@ header li a {
   font-weight: 900;
   padding: 12px;
   border-radius: 12px;
+  text-decoration: none;
+  color: black;
 }
 
 /*section */
